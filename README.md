@@ -120,8 +120,8 @@ How to navigate this repository:
 ```text
 finalterm-machine-learning/
 │
-├── 📓 midterm_transaction_data.ipynb
-├── 📓 midterm_regresi.ipynb
+├── 📓 finalterm_transaction_data.ipynb
+├── 📓 finalterm_regresi.ipynb
 ├── 📓 Fish_Image_Detection.ipynb
 ├── 📄 README.md
 ```
