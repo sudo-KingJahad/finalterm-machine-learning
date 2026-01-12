@@ -117,14 +117,14 @@ Develop a multi-class image classification system capable of recognizing differe
 ## 📂 Repository Structure
 How to navigate this repository:
 
-'''text
+```text
 finalterm-machine-learning/
 │
 ├── 📓 midterm_transaction_data.ipynb
 ├── 📓 midterm_regresi.ipynb
 ├── 📓 Fish_Image_Detection.ipynb
 ├── 📄 README.md
-
+```
 
 ---
 
